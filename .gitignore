@@ -1,0 +1,6 @@
+#technical folders
+.idea/
+node_modules/
+
+# file with url mongoDB
+config/keys.js
